@@ -1,0 +1,116 @@
+h1 {
+	font-style: bold;  
+}
+
+#empty-full h1 {
+    font-size: 80px;
+	margin: 0;
+	display: inline;
+    word-break: break-all;
+	hyphens: auto;
+}
+h1#EMPTY {
+	color: #ff0097;
+}
+h1#UNOCCUPIED {
+	color: #e70eac;
+}
+h1#DERELICT {
+	color: #aa0c7f;
+}
+h1#EMPTIED {
+	color: #d113dd;
+}
+h1#VACANT {
+	color: #b60ec0;
+}
+h1#UNUSED {
+	color: #69136e;
+}
+h1#ENCLOSED {
+	color: #620c67;
+}
+h1#INSIDE {
+	color: #8412ba;
+}
+h1#APARTMENTS {
+	color: #9f62bc;
+}
+h1#OVERFLOWING {
+	color: #695174;
+}
+h1#FILLED {
+	color: #4d108b;
+}
+h1#FLOATING {
+	color: #9c71c8;
+}
+h1#CONTAINER {
+	color: #2727e5;
+}
+h1#LUGGAGE {
+	color: #1010a7;
+}
+h1#SPACE {
+	color: #0f0f7c;
+}
+h1#COMPARTMENT {
+	color: #1331b4;
+}
+h1#LOCKED {
+	color: #295392;
+}
+h1#CRAMMED {
+	color: #193d72;
+}
+h1#OPEN {
+	color: #183664;
+}
+h1#IDLE {
+	color: #22b0eb;
+}
+h1#DARKENED {
+	color: #1b91c2;
+}
+h1#SUITCASE {
+	color: #17769d;
+}
+h1#ROOM {
+	color: #146181;
+}
+h1#STORAGE {
+	color: #0e506b;
+}
+h1#BUCKET {
+	color: #1de7e0;
+}
+h1#LOCKER {
+	color: #14c5bf;
+}
+h1#USABLE {
+	color: #209591;
+}
+h1#EXTRA {
+	color: #77c7b9;
+}
+h1#AMPLE {
+	color: #2fe886;
+}
+h1#ENTIRE {
+	color: #15bb63;
+}
+h1#NORMAL {
+	color: #189251;
+}
+h1#EQUAL {
+	color: #10713d;
+}
+h1#UNLIMITED {
+	color: #68fc1f;
+}
+h1#COMPLETE {
+	color: #c0fc1f;
+}
+h1#FULL {
+	color: #fcb01f;
+}
