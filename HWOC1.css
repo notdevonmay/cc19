@@ -1,0 +1,14 @@
+h1 {
+	font-style: italic;  
+}
+h1#FIRST {
+	color: pink;
+	line-height: 1;
+}
+h1#SECOND {
+	color: red;
+	line-height: .2;
+}
+.large {
+	font-size: 60px;
+}
