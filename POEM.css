@@ -1,0 +1,19 @@
+h1 {
+	font-style: italic;  
+	color: hotpink;
+}
+h1#FIRST {
+	color: Black;
+	line-height: .9;
+}
+h1#MIDDLE {
+	color: Grey;
+	line-height: .9;
+}
+h1#LAST {
+	color:lightgrey;
+	line-height: .2;
+}
+.large {
+	font-size: 90px;
+}
